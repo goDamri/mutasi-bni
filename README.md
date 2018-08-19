@@ -22,4 +22,4 @@ Cara pakai.
 
 lebih lengkap lihat example.php
 
-[Butuh bantuan lain? hubungi saya via telegram](https://t.me/galihazizif)
+[Origin](https://github.com/galihazizif/mutasi-bni)
